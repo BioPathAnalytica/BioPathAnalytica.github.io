@@ -26,7 +26,7 @@ navbar-links:
     - Bioinformatic Consultation: "/Bioinformatics"
     - Professional Path Consultation: "/biophysics"
     - LabSpace Communication: "/ChemicalBio"
-  Project Resources:
+  Resources:
     - GeoSpatial Analysis: "https://github.com/sl1453/GeoSpatial-Point-Pattern-Analysis/blob/main/README.md"
     - RNA Seq: "https://github.com/sl1453/Giardia_mucusRNA_Analysis"
     - Data Visualization R scripts: "https://github.com/sl1453"
