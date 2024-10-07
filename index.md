@@ -37,9 +37,10 @@ cover-img:
   #- "/assets/img/cover30.jpg" : "At Brandeis: When I'm Not in the Lab"
 ---
 Welcome to Asteroid B-678! 🪐
-## *Your Personalized Space for Bio Research Solutions at BioPath Analytica* ✌️
+**_Your Personalized Space for Bio Research Solutions at BioPath Analytica ✌️_**
 
 At BioPath Analytica, I offer personalized insights to support your research questions, provide expert advice on data analysis, and guide you in presenting your findings for impactful results. My goal is to help you advance your research, enhance your communication skills, and navigate your career path in science and beyond!
 
-Hi, I'm Shican (Claire), a Ph.D. graduate in Biology 🎓 from Georgetown University, with extensive hands-on experience in interdisciplinary biological research. 
+Hi, I'm Shican (Claire), a Ph.D. graduate in Biology 🎓 from Georgetown University, with extensive hands-on experience in interdisciplinary biological research.   
+
 **Head to the [**About**](about) page, or visit the **menu tabs ☝️** to dive in. (No snoozefests, pinky swear!)**
