@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "BioPath Analytica"
+title: "BioPathAnalytica"
 title-minor: "(🧬 Data-driven Solutions 🛣 Personalized for You! ^.^)"
 subtitle: "BioData Analysis | Bioinformatics Solutions | Tailored Strategy to Empower Your Communication with PIs, Collaborators, and Yourself"
 
