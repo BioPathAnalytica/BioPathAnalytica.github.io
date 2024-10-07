@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Shican (Claire) Li
+title: BioPath Analytica
 
 # Your name to show in the footer
 author: ShicanLion Claire
@@ -21,18 +21,18 @@ author: ShicanLion Claire
 
 navbar-links:
   About: "about"
-  Research:
-    - Cell Bio/Parasitology: "/GeoSpatialResearch"
-    - Bioinformatics: "/Bioinformatics"
-    - Biophysics: "/biophysics"
-    - Chemical Bio: "/ChemicalBio"
-  Data works:
+  Services:
+    - BioResearch Data Analysis: "/GeoSpatialResearch"
+    - Bioinformatic Consultation: "/Bioinformatics"
+    - Professional Path Consultation: "/biophysics"
+    - LabSpace Communication: "/ChemicalBio"
+  Project Resources:
     - GeoSpatial Analysis: "https://github.com/sl1453/GeoSpatial-Point-Pattern-Analysis/blob/main/README.md"
     - RNA Seq: "https://github.com/sl1453/Giardia_mucusRNA_Analysis"
     - Data Visualization R scripts: "https://github.com/sl1453"
-  Teaching: "/teaching"
-  Influencer Blog: "/blog"
-  My Arts: "arts"
+  Join Us: "/teaching"
+  Bio Insights: "/blog"
+  Guest Interviews: "arts"
   
   
 ################
@@ -41,7 +41,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/LG.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -60,15 +60,15 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
 
-  ORCID: "0009-0008-5622-8932"
-  google-scholar: "-4eGXNUAAAAJ"
-  github: "sl1453"
-  linkedin: ShicanClaireLi
+# ORCID: "0009-0008-5622-8932"
+# google-scholar: "-4eGXNUAAAAJ"
+  github: "BioPathAnalytica"
+  linkedin: biopath-analytica
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   twitter: ShicanLi
-  facebook: "claire.li.lsc/"
+# facebook: "claire.li.lsc/"
 # instagram: lsc996
-  email: "sl1453@georgetown.edu"
+  email: "biopathanalytica@gmail.com"
 #  patreon: DeanAttali
 #  youtube: "@daattali"
 #  whatsapp: 15551212
@@ -110,7 +110,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "sl1453@georgetown.edu"
+url-pretty: "biopathanalytica@gmail.com"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
