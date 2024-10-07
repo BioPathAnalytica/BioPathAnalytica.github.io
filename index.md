@@ -2,7 +2,7 @@
 layout: page
 title: "BioPath Analytica"
 title-minor: "(🧬 Data-driven Solutions 🛣 Personalized for You! ^.^)"
-subtitle: "BioData Analysis | Bioinformatics Solutions | Tailored Strategy to Empower Your Communication with PIs, Collaborators, and Yourself"
+subtitle: "BioData Analysis | Bioinformatics Solutions | Personalized Strategy to Empower Your Communication with PIs, Collaborators, and Yourself"
 
 cover-img:
   - "/assets/img/path.jpg" : "Own Your Path from B to A"
@@ -23,7 +23,7 @@ cover-img:
   #- "/assets/img/cover14.jpg" : "Graduation Day: Father and Daughter in Front of Georgetown."
   #- "/assets/img/cover15.jpg" : "Ph.D Hooding Ceremony."
   #- "/assets/img/cover16.jpg" : "When I'm Not in the Lab: Painting for Fun."
-  - "/assets/img/cover17.jpg" : "Balance Lab and Life"
+  #- "/assets/img/cover17.jpg" : "Balance Lab and Life"
   - "/assets/img/cover18.jpg" : "Balance Lab and Life"
   #- "/assets/img/cover19.jpg" : "When I'm Not in the Lab: Opera Debut, DC."
   #- "/assets/img/cover20.jpg" : "Atlantic Ocean."
@@ -37,8 +37,9 @@ cover-img:
   #- "/assets/img/cover30.jpg" : "At Brandeis: When I'm Not in the Lab"
 ---
 Welcome to Asteroid B-678! 🪐
-Your Personalized Space for Tailored Solutions at BioPath Analytica ✌️
+## *Your Personalized Space for Tailored Solutions at BioPath Analytica* ✌️
 
-Hi, I'm Shican (Claire), a Ph.D. graduate in Biology 🎓 from Georgetown University, with extensive hands-on experience in interdisciplinary biological research. At BioPath Analytica, I offer personalized insights to support your research questions, provide expert advice on data analysis, and guide you in presenting your findings for impactful results. My goal is to help you advance your research, enhance your communication skills, and navigate your career path in science and beyond!
+At BioPath Analytica, I offer personalized insights to support your research questions, provide expert advice on data analysis, and guide you in presenting your findings for impactful results. My goal is to help you advance your research, enhance your communication skills, and navigate your career path in science and beyond!
 
+Hi, I'm Shican (Claire), a Ph.D. graduate in Biology 🎓 from Georgetown University, with extensive hands-on experience in interdisciplinary biological research. 
 ### Head to the [**About**](about) page, or visit the **menu tabs ☝️** to dive in. (No snoozefests, pinky swear!)
