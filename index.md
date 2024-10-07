@@ -37,7 +37,7 @@ cover-img:
   #- "/assets/img/cover30.jpg" : "At Brandeis: When I'm Not in the Lab"
 ---
 Welcome to Asteroid B-678! 🪐
-**_Your Personalized Space for Bio Research Solutions at BioPath Analytica ✌️_**
+## *Your Personalized Space for Bio Research Solutions at BioPath Analytica ✌️*
 
 At BioPath Analytica, I offer personalized insights to support your research questions, provide expert advice on data analysis, and guide you in presenting your findings for impactful results. My goal is to help you advance your research, enhance your communication skills, and navigate your career path in science and beyond!
 
