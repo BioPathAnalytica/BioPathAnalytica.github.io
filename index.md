@@ -47,4 +47,4 @@ At BioPath Analytica, I offer personalized insights to support your research que
 
 Hi, I'm Shican (Claire), a Ph.D. graduate in Biology 🎓 from Georgetown University, with extensive hands-on experience in interdisciplinary biological research.   
 
-**Head to the [**About**](about) page, or visit the **menu tabs ☝️** to dive in. (No snoozefests, pinky swear!)**
+**Head to the [**About**](about) page, or visit the **menu tabs ☝️** to dive in. (No snoozefests, pinky swear!)
