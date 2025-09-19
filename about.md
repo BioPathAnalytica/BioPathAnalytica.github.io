@@ -38,7 +38,7 @@ Beyond the app, BioPath Analytica offers personalized **bioinformatics consultat
 
 I provide tailored solutions to help your research shine.  
 
-If you’re seeking specific data analysis support, please see our [Services](/services) page or contact me directly at **[your email here]**.  
+If you’re seeking specific data analysis support, please see our [Services](/services) page or contact me directly at **[biopathanalytica@gmail.com]**.  
 
 ---
 
